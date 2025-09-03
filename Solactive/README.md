@@ -78,6 +78,7 @@ Write `self._out` to CSV (`export.csv`).
 ## How to run
 
 ```bash
+cd Solactive
 pip install -r requirements.txt
 python __main__.py          # generates export.csv with Date, index_level
 
