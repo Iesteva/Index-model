@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy
+matplotlib
+imageio
+Pillow
+typing
+shutil
+os
+pathlib
+datetime
+
